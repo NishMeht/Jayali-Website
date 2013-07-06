@@ -1,0 +1,53 @@
+.row {
+    width: 1000px;
+    margin: 0 auto;
+}
+.primary {
+	background: #282828;
+}
+
+.subnav {
+	color: white;
+	margin: 0 auto;
+    float: right;
+}
+.navbar-head {
+    float: right;
+ }
+.navbar-head a {
+    padding: 5px;
+    font-weight: bold;
+}
+.navbar-head a:link {
+    color: #d0d0d0;
+}
+.navbar-head a:visited {
+    color: #c0c0c0;
+    background-color: #000000;
+}
+.navbar-head a:hover {
+    color: #09c;
+}
+.navbar-head a:active {
+    color: #f0f0f0;
+    background-color: #00ff00;
+}
+.brand img {
+height: 125px;
+}
+
+.main-content {
+    background-image: url(images/music-wall.png);
+    background-size: 100%;
+}
+.main-content img {
+    border: 3px outset #ff7400;
+}
+.mast-footer {
+    clear: both;
+    background: #282828;
+    color: #fff
+}
+.events img {
+    height: 200px;
+    }
